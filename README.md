@@ -1,9 +1,13 @@
 # Coffee-Shop-Sales
 The file contains three sheets:
 
-Coffee shop sales transformed - Likely the main data set containing sales data.
-Pivot_Tables - Could contain pivot tables for analysis or summarization.
-Dashboard - Might provide visual summaries or insights from the data.
+Coffee shop sales transformed
+
+Pivot_Tables
+
+Dashboard
+
+
 
 The dataset appears to contain sales transaction data for a coffee shop, with the following columns:
 
