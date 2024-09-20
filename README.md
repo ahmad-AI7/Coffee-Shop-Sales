@@ -1,11 +1,11 @@
 # Coffee-Shop-Sales
-The file contains three sheets:
+![Screenshot 2024-09-20 225429](https://github.com/user-attachments/assets/96dcbe26-3c7a-45d6-9e21-e6ba3809c53e)
 
+# The file contains three sheets:
 Coffee shop sales transformed
-
 Pivot_Tables
-
 Dashboard
+![Screenshot 2024-09-20 225429](https://github.com/user-attachments/assets/96dcbe26-3c7a-45d6-9e21-e6ba3809c53e)
 
 
 
@@ -29,4 +29,4 @@ Total_Bill: Total amount billed for the transaction.
 
 Hour, Day of Week, and Month: Extracted time data from the transaction timestamp.
 
-Size: Additional column (possibly related to product size, though it's missing data).
+Size: Additional column
